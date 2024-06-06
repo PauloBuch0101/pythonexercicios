@@ -14,4 +14,5 @@ while pygame.mixer.music.get_busy():
 # Encerre o mixer e finalize o programa
 pygame.mixer.quit()
 print('Caramba, que música incrível! Quem sabe qual será a próxima música?')
+print('teste github')
 
